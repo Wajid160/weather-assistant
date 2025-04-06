@@ -1,0 +1,8 @@
+chainlit>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.30.0
+# Add langchain and related packages if 'agents' uses them
+# Example: 
+# langchain>=0.1.0
+# langchain-openai>=0.1.0 
+# openai >= 1.0.0 # If AsyncOpenAI requires the base openai package 
